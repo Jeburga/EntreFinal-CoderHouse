@@ -1,0 +1,74 @@
+{
+    "bebidasAlcoholicas": [
+      {
+        "codigo": "W001",
+        "nombre": "Johnnie Walker Black Label",
+        "precio": 89.99,
+        "tipo": "Whisky",
+        "img": "./img/johnnywalker.jpg"
+      },
+      {
+        "codigo": "C001",
+        "nombre": "Corona Extra",
+        "precio": 2.99,
+        "tipo": "Cerveza",
+        "img": "./img/corona-extra-beer.jpg"
+      },
+      {
+        "codigo": "R001",
+        "nombre": "Bacardi Superior",
+        "precio": 19.99,
+        "tipo": "Ron",
+        "img": "./img/bacardi.jpg"
+      },
+      {
+        "codigo": "V001",
+        "nombre": "Grey Goose",
+        "precio": 39.99,
+        "tipo": "Vodka",
+        "img": "./img/grey.jpg"
+      },
+      {
+        "codigo": "T001",
+        "nombre": "Don Julio Blanco",
+        "precio": 49.99,
+        "tipo": "Tequila",
+        "img": "/img/julio.jpg"
+      },
+      {
+        "codigo": "G001",
+        "nombre": "Tanqueray London Dry",
+        "precio": 29.99,
+        "tipo": "Gin",
+        "img": "/img/tanqueray.jpg"
+      },
+      {
+        "codigo": "W002",
+        "nombre": "Macallan 12 Years",
+        "precio": 79.99,
+        "tipo": "Whisky",
+        "img": "/img/macallan (1).jpg"
+      },
+      {
+        "codigo": "C002",
+        "nombre": "Guinness Draught",
+        "precio": 3.99,
+        "tipo": "Cerveza",
+        "img": "/img/guiness.jpg"
+      },
+      {
+        "codigo": "R002",
+        "nombre": "Havana Club 7 Años",
+        "precio": 24.99,
+        "tipo": "Ron",
+        "img": "/img/havana.jpg"
+      },
+      {
+        "codigo": "L001",
+        "nombre": "Baileys Original Irish Cream",
+        "precio": 22.99,
+        "tipo": "Licor",
+        "img": "/img/baileys.jpg"
+      }
+    ]
+  }

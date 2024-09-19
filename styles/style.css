@@ -1,0 +1,44 @@
+#seccionGeneral {
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0.419);
+    padding: 20px;
+}
+
+body {
+    background-image: url(/img/bg2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+}
+
+#cardProducto {
+    transition: transform 0.3s ease-in-out;
+}
+
+#cardProducto:hover {
+    transform: scale(1.05);
+}
+
+/* Estilos para el footer */
+footer {
+    background-color: black;
+    color: white;
+}
+
+footer i, footer a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Seccion carrito */
+.carrito {
+    background-color: rgba(255, 255, 255, 0.836);
+}
+
+.carrito h2 {
+    padding-top: 25px;
+}
